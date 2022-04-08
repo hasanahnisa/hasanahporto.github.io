@@ -1,0 +1,79 @@
+/*front page*/
+.first {
+    background-image: url('../portofolio/back.jpg');
+   background-size: contain;
+   background-attachment: fixed;
+   background-attachment: scroll;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-style: italic;
+    color: #304F61;
+    text-align: left;
+    margin-top: 26%;
+    margin-left: 16%;
+    font-size: 50px;
+}
+
+h2{
+    font-style: italic;
+    color: #304F61;
+    text-align: left;
+    margin-top: -1%;
+    margin-left: 16%;
+    font-size: 20px;
+}
+p{
+    font-size: 16px;
+    text-align: justify;
+    margin-left: 16%;
+    color: #304F61;
+}
+
+img{
+    float: right;
+    margin-top: -4%;
+    margin-right: 15%;
+    width: 21%;
+    height: 20%;
+}
+
+button:hover{
+    font-size: 14px;
+    transition-duration: 0,4s;
+    background-color: #49ADB3;
+    color: white;
+}
+/*about page*/
+.about{
+    margin-top: 9%;
+    padding: 100px 50px;
+    float: left;
+}
+
+.contact{
+    margin-left: 12%;
+    }
+
+td{
+    padding: 4px 15px;
+}
+
+.wa {
+    margin-left: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.mail{
+    float: left;
+    width: 50px;
+    height: 50px;
+}
+
+.ig{
+    float: left;
+    width: 50px;
+    height: 50px;
+}
